@@ -31,6 +31,7 @@ PRODUCT_PACKAGES += \
     Gallery2 \
     LatinIME \
     Music \
+    PdfViewerGOS \
     preinstalled-packages-platform-handheld-product.xml \
     SettingsIntelligence \
     frameworks-base-overlays
