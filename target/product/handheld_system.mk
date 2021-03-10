@@ -68,6 +68,7 @@ PRODUCT_PACKAGES += \
     SecureElement \
     SharedStorageBackup \
     SimAppDialog \
+    talkback \
     Telecom \
     TeleService \
     Traceur \
