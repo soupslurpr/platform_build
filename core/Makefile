@@ -5764,6 +5764,15 @@ INTERNAL_OTATOOLS_PACKAGE_FILES += \
   device/common/clear-factory-images-variables.sh \
   device/common/generate-factory-images-common.sh
 
+# GrapheneOS scripts
+INTERNAL_OTATOOLS_PACKAGE_FILES += \
+  script/common.sh \
+  script/decrypt-keys.sh \
+  script/encrypt-keys.sh \
+  script/generate-metadata \
+  script/generate-release.sh \
+  script/generate-delta.sh
+
 INTERNAL_OTATOOLS_RELEASETOOLS := \
   $(shell find build/make/tools/releasetools -name "*.pyc" -prune -o \
       \( -type f -o -type l \) -print | sort)
