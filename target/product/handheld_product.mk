@@ -35,6 +35,8 @@ PRODUCT_PACKAGES += \
     PdfViewerGOS \
     preinstalled-packages-platform-handheld-product.xml \
     SettingsIntelligence \
+    ThemePicker \
+    ThemesStub \
     TrichromeChrome \
     frameworks-base-overlays
 
