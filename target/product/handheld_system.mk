@@ -56,6 +56,7 @@ PRODUCT_PACKAGES += \
     InputDevices \
     KeyChain \
     librs_jni \
+    LogViewer \
     ManagedProvisioning \
     MmsService \
     MtpService \
