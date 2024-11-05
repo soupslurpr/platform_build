@@ -30,3 +30,4 @@ PRODUCT_PACKAGES += \
     StorageManager \
     SystemUI \
     WallpaperCropper \
+    NetworkLocation \
